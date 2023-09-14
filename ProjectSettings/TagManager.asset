@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Ground
+  - Audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3831705435
+    locked: 0
+  - name: Efects
+    uniqueID: 1733434963
+    locked: 0
+  - name: Flag-Objects
+    uniqueID: 3391142601
+    locked: 0
+  - name: TailMap
+    uniqueID: 2083701989
+    locked: 0
+  - name: Player
+    uniqueID: 1039583117
+    locked: 0

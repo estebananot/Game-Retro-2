@@ -1,0 +1,34 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "e786164c-ad31-4fe1-8de7-c82e0bcb13ec",
+            "actions": [
+                {
+                    "name": "Movement",
+                    "type": "Button",
+                    "id": "76e8833c-3db6-407b-b6be-959de9423c71",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c29b9e14-23ed-4f85-bfdd-604f6ea5a663",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
